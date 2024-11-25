@@ -20,7 +20,7 @@
 
 ## 1. Main Code: UFC Fighter Prediction Using multi models
 
-[Mian Code: UFC_Fighter_prediction_model](UFC_Fighter_prediction_model.ipynb)
+[Mian Code: UFC_Fighter_prediction_model](All/UFC_Fighter_prediction_model.ipynb)
 
 ## 2. Base Model: UFC Fighter Prediction Using Random Forest
 
