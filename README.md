@@ -21,4 +21,63 @@
 # UFC Fight Outcome Prediction Using multi models
 
 ## Step 1: Install and Import Libraries
+- **Installation:** Start by installing necessary libraries using `pip install`. This ensures all required packages are available.
+
+- **Imports:** Import libraries for data manipulation (`pandas`, `numpy`), visualization (`seaborn`, `matplotlib`), display (`IPython.display`), machine learning (`scikit-learn`), and specific models (`CatBoostClassifier`, `XGBClassifier`, etc.).
+
+``` python
+!pip install pandas numpy scikit-learn seaborn matplotlib catboost tensorflow
+```
+
+``` python
+"""
+Purpose: Import all necessary libraries for data manipulation, visualization, preprocessing, and machine learning models.
+
+Variables:
+    pd: Alias for pandas, used for data manipulation.
+    np: Alias for numpy, used for numerical operations.
+    sns: Alias for seaborn, used for data visualization.
+    plt: Alias for matplotlib.pyplot, used for plotting graphs.
+    Machine learning models and tools are imported from sklearn, catboost, and xgboost.
+"""
+
+# Import data manipulation libraries
+import pandas as pd
+import numpy as np
+
+# Import visualization libraries
+from IPython.display import display,  HTML
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Import machine learning libraries
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.preprocessing import LabelEncoder, StandardScaler
+from sklearn.model_selection import  cross_val_score
+
+# Import models
+from sklearn.ensemble import RandomForestClassifier
+from catboost import CatBoostClassifier
+from xgboost import XGBClassifier
+```
+
+``` python
+
+```
+
+``` python
+
+```
+
+``` python
+
+```
+
+``` python
+
+```
+
+``` python
+
+```
 
