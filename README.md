@@ -18,6 +18,6 @@
   - Method (Probability)
   - Round (Probability)
 
-# UFC Fight Outcome Prediction Using multi models
+## UFC Fight Outcome Prediction Using multi models
 
-[Mian Code](UFC_Fighter_prediction_model.ipynb)
+[Mian Code: UFC_Fighter_prediction_model](UFC_Fighter_prediction_model.ipynb)
