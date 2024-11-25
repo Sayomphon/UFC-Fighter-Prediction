@@ -17,3 +17,5 @@
   - Winner (Probability)
   - Method (Probability)
   - Round (Probability)
+
+# UFC Fight Outcome Prediction Using multi models
