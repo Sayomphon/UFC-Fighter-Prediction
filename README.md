@@ -2,7 +2,7 @@
 
 ### 1. Data Collection and Preparation
   - Use the following scraper as a starting point: https://github.com/remypereira99/UFC-Web-Scraping.
-  - Supplement this data with additional sources, such as Kaggle UFC Dataset or other relevant MMA data.
+  - Supplement this data with additional sources, such as [Kaggle UFC Datase](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset)t or other relevant MMA data.
 ### 2. Data Analysis and Insights
   - Analyze historical fight data to identify patterns and trends.
   - Incorporate relevant inputs such as:
