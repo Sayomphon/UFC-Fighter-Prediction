@@ -18,6 +18,10 @@
   - Method (Probability)
   - Round (Probability)
 
-## UFC Fight Outcome Prediction Using multi models
+## 1. Main Code: UFC Fighter Prediction Using multi models
 
 [Mian Code: UFC_Fighter_prediction_model](UFC_Fighter_prediction_model.ipynb)
+
+## 2. Base Model: UFC Fighter Prediction Using Random Forest
+
+[Base Model: UFC_Fighter_prediction_model](UFC_Fighter_prediction_base_model.ipynb)
