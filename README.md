@@ -20,22 +20,20 @@
 
 ## 1. Main Code: UFC Fighter Prediction Using multi models
 
-[Mian Code: UFC_Fighter_prediction_model](All/UFC_Fighter_prediction_model.ipynb)
+[Mian Code: UFC_Fighter_prediction_model](Main/UFC_Fighter_prediction_model.ipynb)
 
 ## 2. Base Model: UFC Fighter Prediction Using Random Forest
 
-[Base Model: UFC_Fighter_prediction_base_model](UFC_Fighter_prediction_base_model.ipynb)
+[Base Model: UFC_Fighter_prediction_base_model](Base_Model/UFC_Fighter_prediction_base_model.ipynb)
 
 ## 3. Best features Model: UFC Fighter Prediction best features using features importance and Recursive Feature Elimination (RFE)
 
-[Best features Model: UFC_Fighter_prediction_Features_model](UFC_Fighter_prediction_Features.ipynb)
+[Best features Model: UFC_Fighter_prediction_Features_model](Best_Features/UFC_Fighter_prediction_Features.ipynb)
 
 ## 4. Best ML amd DL Models: UFC Fighter Prediction ML and DL models
 
-[Best Model: UFC_Fighter_prediction_best_model](UFC_Fighter_prediction_best_model.ipynb)
+[Best Model: UFC_Fighter_prediction_best_model](Best_model/UFC_Fighter_prediction_best_model.ipynb)
 
-## 5. Tune parameters DL Models: UFC Fighter Prediction ML and DL models
+## 5. Tune parameters ML and DL Models: UFC Fighter Prediction ML and DL models
 
-[Best Model: UFC_Fighter_prediction_best_model](UFC_Fighter_prediction_best_model.ipynb)
-
-
+[Tune parameters ML and DL models: UFC_Fighter_prediction_finetune_paprameters_model](Finetune_Parameters)
